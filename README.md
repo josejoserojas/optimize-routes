@@ -1,2 +1,3 @@
-# optimize-routes
-using the 'computeBestOrder' in the routing API to optimize by distance
+# Optimize your waypoints for your route.
+Using the 'computeBestOrder' in the routing API to optimize by distance.
+
